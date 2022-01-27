@@ -6,3 +6,6 @@
  * Get info on a user -  Route GET /getinfo
  
 * Extract JWT , Szyfrowanie danych
+
+
+** Twórcy - Jakub Dudek Piotr Rusin
